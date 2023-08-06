@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm DerDevHD</h1>
 <h3 align="center">A FiveM (scripts) and Fullstack developer</h3>
 
-- 🌱 I’m currently learning **react**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Discord: <code>derdevhd</code>
