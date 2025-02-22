@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DerDevHD</h1>
-<h3 align="center">17yo, student</h3>
+<h3 align="center">18yo, student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derdevhd&label=Profile%20views&color=0e75b6&style=flat" alt="derdevhd" /> </p>
 
